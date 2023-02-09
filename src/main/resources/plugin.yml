@@ -1,0 +1,6 @@
+api-version: '1.17'
+author: Epicnicity322
+description: Faz com que flechas quebrem blocos de vidro.
+main: com.epicnicity322.flechas.Flechas
+name: Flechas
+version: 1.0
